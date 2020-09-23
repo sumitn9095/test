@@ -2,7 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+    },
+    {
+      "id": 2,
+      "title": "new post",
+    },
+    {
+      "id": 3,
+      "title": "last post",
     }
   ],
   "login": [
