@@ -5,6 +5,12 @@
       "title": "hello"
     }
   ],
+  "login": [
+    {
+      "username": "sumit",
+      "password": "sumitnirgude"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
